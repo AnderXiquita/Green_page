@@ -1,0 +1,73 @@
+.large {
+    font-size: 50px;
+    text-transform: uppercase;
+    line-height: 1em;
+}
+
+.container-showcase {
+    margin: auto;
+    max-width: 1200px;
+    overflow: auto;
+    padding: 0 10px;
+
+    text-align: center;
+}
+
+.showcase h1 {
+    margin: 30px 0 40px 0;
+}
+
+.showcase img {
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+/*footer*/
+
+#footer {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid var(--negro);
+}
+
+/*------------------------------------*/
+/* Products */
+
+.product-1-text h4, .product-2-text h4 {
+    font-size: 1.7rem;
+    margin-bottom: 20px;
+}
+
+.product-1-text p, .product-2-text p {
+    font-size: 1.2rem;
+}
+
+/*About-------------------------------*/
+
+
+.about-box-left {
+    width: 50%;
+    padding: 20px;
+}
+
+.about-box-left h3 {
+    font-size: 20px;
+    padding-top: 48px;
+    padding-bottom: 20px;
+    line-height: 1em;
+}
+
+.about-box-left p {
+    font-size: 1.1rem;
+}
+
+.about-box-right {
+    width: 50%;
+    padding: 20px;
+}
+
+.about-box-right p {
+    font-size: 1.1rem;
+}
+
+/* Contact */
